@@ -1,0 +1,34 @@
+Web Develpment Notes
+
+
+02/01/2023
+
+- learnt CSS and its types
+	Three types of css is there
+	1. inline CSS
+	2. Internal Css
+	3. External css
+
+03/01/2023
+
+CSS selector
+-CSS tag 
+-CSS class
+-CSS ID 
+-inline CSS
+-favicons.io(website icon)
+
+The hierarchy of CSS selector is 
+ css ID>css Class>Inline css> css Tag
+
+
+04/01/2022
+
+-Html Div
+-html border 
+-html margin
+-html padding
+
+
+
+
