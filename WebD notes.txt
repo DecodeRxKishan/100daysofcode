@@ -29,6 +29,29 @@ The hierarchy of CSS selector is
 -html margin
 -html padding
 
+05.01.2023
+
+To use css in html by 
+
+-tag selector
+We can do it by using tag name itself
+
+For example:- h1{}
+
+-using class 
+We have to put . Before class in css
+
+For example:- . class name {}
+
+-using ID 
+We have to put # before a ID
+
+For example:- #ID{}
+
+*The CSS should end with a ; * 
+*we can use a class multiple times in CSS but there can be only a single ID.
+
+Which refers that ID is unique and can be used to assign unique things in our web page
 
 
 
