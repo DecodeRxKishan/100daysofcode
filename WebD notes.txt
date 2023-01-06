@@ -33,10 +33,22 @@ The hierarchy of CSS selector is
 
 To use css in html by 
 
--tag selector
+-CSS selector 
+A CSS selecttor is used to select on HTML element(s) for styling
+
+body{
+	color: red;
+	background: pink;
+}
+
+
+-element selector
 We can do it by using tag name itself
 
-For example:- h1{}
+For example:- 
+	h1{
+	color: blue;
+	}
 
 -using class 
 We have to put . Before class in css
@@ -50,8 +62,23 @@ For example:- #ID{}
 
 *The CSS should end with a ; * 
 *we can use a class multiple times in CSS but there can be only a single ID.
+Which refers that ID is unique and can be used to assign unique things in our web page.
 
-Which refers that ID is unique and can be used to assign unique things in our web page
+
+-Comments in CSS is text which will not parse and is thus ignored by our browser
+
+comments are written by
+
+/*comment*/
+
+06.01.2023
+
+Revision
+
+
+
+
+
 
 
 
