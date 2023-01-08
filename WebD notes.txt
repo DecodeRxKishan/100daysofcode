@@ -73,4 +73,34 @@ comments are written by
 
 06.01.2023
 
-Revision
+
+REVISION
+
+
+07..0.2023
+
+Important notes
+
+-We can group selectors like this: 
+h1, h2, h3, dic {
+	color: blue;
+	}
+
+- we can use element class as selector like this:-
+	P.red{
+		color : red;
+		}
+
+* can be used as a universal selector to select all the elements
+		* {
+			margin : 0;
+			padding : 0;
+			}
+			
+An inline css style will override external and internal styles.
+
+
+08.01.2023
+
+
+
