@@ -1,6 +1,5 @@
 Web Develpment Notes
 
-
 02/01/2023
 
 - learnt CSS and its types
