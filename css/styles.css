@@ -1,9 +1,13 @@
 body {
-    background-color: #eaf6f6;
+    background-color: #b9e0e0;
 }
 
 h1 h3{
-    color: #66BFBF;
+    color: #003952;
+}
+
+.table1 th {
+    color: black;
 }
 
 hr {
