@@ -135,3 +135,4 @@ Used to set an image as the background.
 	body{
 		background-image: url("filename.extension")
 		}
+The image is by default repeated in X & Y directions.
