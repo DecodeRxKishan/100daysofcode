@@ -101,4 +101,31 @@ An inline css style will override external and internal styles.
 
 12.01.2023
 
+-Colors & backgrounds
+
+CSS rules are simple key-value pairs with a selector, we can write  CSS rules to change color and set backgrounds.
+
+
+-The color property 
+The CSS color property can be used to set the text color inside an element 
+
+p{
+	color: red;	
+	}
+
+similarly we can set color for different elements 
+
+Types of color values following are the most commonly used color values in css 
+
+1. RGB :- Specify color using Red, Green, Blue values. 
+		eg. rgb(200,98,70)
+2. HEX Code:L- Specify color using hex code. 
+		eg. #ff7180
+3. HSL:- Specify the color using hsl (Hue, Saturation, Lightness) values.
+		eg. hsl(8, 90%, 63%)
+
+The value of the color or background color is provided as any of these values.
+
+NOTE:- We also have an RGBA and HSLA values for color but they are rarely used by beginners 
+	HERE 'A' in "HSLA" stands for Alpha
 
