@@ -129,3 +129,9 @@ The value of the color or background color is provided as any of these values.
 NOTE:- We also have an RGBA and HSLA values for color but they are rarely used by beginners 
 	HERE 'A' in "HSLA" stands for Alpha
 
+*The background image property*
+Used to set an image as the background. 
+
+	body{
+		background-image: url("filename.extension")
+		}
