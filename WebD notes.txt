@@ -145,3 +145,5 @@ can be any of:
 
 
 -The background-size property 
+can be following:
+-> cover :----fits & no empty space remains
