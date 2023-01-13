@@ -146,4 +146,5 @@ can be any of:
 
 -The background-size property 
 can be following:
--> cover :----fits & no empty space remains
+-> cover :---- fits & no empty space remains.
+-> contain :---- fits & image is fully visible. 
