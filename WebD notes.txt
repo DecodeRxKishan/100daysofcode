@@ -142,3 +142,6 @@ can be any of:
 -> repeat-x :----- repeat in horizontal direction.
 -> repeat-y :----- repeat in vertical direction.
 -> no repeat :---- image no repeat. 
+
+
+-The background-size property 
