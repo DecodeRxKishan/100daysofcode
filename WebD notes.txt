@@ -136,3 +136,9 @@ Used to set an image as the background.
 		background-image: url("filename.extension")
 		}
 The image is by default repeated in X & Y directions.
+
+-The background-repeat property
+can be any of:
+-> repeat-x :----- repeat in horizontal direction.
+-> repeat-y :----- repeat in vertical direction.
+-> no repeat :---- image no repeat. 
