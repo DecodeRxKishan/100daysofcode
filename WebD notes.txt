@@ -137,6 +137,8 @@ Used to set an image as the background.
 		}
 The image is by default repeated in X & Y directions.
 
+
+
 -The background-repeat property
 can be any of:
 -> repeat-x :----- repeat in horizontal direction.
@@ -148,3 +150,10 @@ can be any of:
 can be following:
 -> cover :---- fits & no empty space remains.
 -> contain :---- fits & image is fully visible. 
+
+
+
+
+*****************DAY_14*******************
+
+		REVISION
