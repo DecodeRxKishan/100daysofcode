@@ -72,9 +72,7 @@ comments are written by
 
 06.01.2023
 
-
 REVISION
-
 
 07..0.2023
 
@@ -152,5 +150,4 @@ can be following:
 
 
 *****************DAY_14*******************
-
 		REVISION
