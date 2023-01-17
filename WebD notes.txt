@@ -1,5 +1,20 @@
 Web Develpment Notes
 
+HTML Hyper Text Mark Up Language
+
+HTML is the language of the web.it is  to create websites"   We use HTML tags to define look & face of a website.
+
+ With understanding of these tags and How to put them together, we can create beautiful websites easily!
+
+Then why CSS & Java Script HTML is used for defining layout of a page - A barebone page structure.
+
+CSS is used to add styling to that barebone page Created using HTML.
+
+Java Script is used to program Logic for the page layout eg.
+
+What happens when a user hovers on a text, when
+to hide or show elements etc.
+
 02/01/2023
 
 - learnt CSS and its types
