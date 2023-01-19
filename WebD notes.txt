@@ -15,6 +15,31 @@ Java Script is used to program Logic for the page layout eg.
 What happens when a user hovers on a text, when
 to hide or show elements etc.
 
+We start building a website by creating a file named index.html index html is a special filename which is presented when the website root address is typed.
+
+A Basic HTML Page:- 
+
+<! Doctype html > --> Specifies this is an HTML5 
+
+<html>→reat of an HTML page doc.
+
+<head> → Contains page metadata 
+
+<title> Harry's Website </title> --> Contains title 
+ 
+</head>
+
+<body> → The main body of the page (rondered by the browser) 
+
+<h1> This is a heading </h1>
+
+<p> My paragraph </p> -->paragraph tag 
+
+</body> 
+
+</html>→→ • closing body tag heading tag
+
+
 02/01/2023
 
 - learnt CSS and its types
