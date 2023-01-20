@@ -37,6 +37,8 @@ A Basic HTML Page:-
 
 </body> 
 
+
+
 </html>→→ • closing body tag heading tag
 
 
