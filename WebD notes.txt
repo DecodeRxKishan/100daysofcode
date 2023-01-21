@@ -20,27 +20,17 @@ We start building a website by creating a file named index.html index html is a 
 A Basic HTML Page:- 
 
 <! Doctype html > --> Specifies this is an HTML5 
-
 <html>→reat of an HTML page doc.
-
 <head> → Contains page metadata 
-
 <title> Harry's Website </title> --> Contains title 
- 
 </head>
-
 <body> → The main body of the page (rondered by the browser) 
-
 <h1> This is a heading </h1>
-
 <p> My paragraph </p> -->paragraph tag 
-
 </body> → • closing body tag heading tag
-
 </html>  
 
 A tag is like a container for either content or other HTML tags.
-
 
 Imp. Notes:
 -Head & body tags are children of html tag. 
