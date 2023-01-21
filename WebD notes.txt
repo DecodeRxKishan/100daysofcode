@@ -50,8 +50,6 @@ Imp. Notes:
 eg. <br>
 
 
-
-
 02/01/2023
 
 - learnt CSS and its types
@@ -160,8 +158,8 @@ CSS rules are simple key-value pairs with a selector, we can write  CSS rules to
 The CSS color property can be used to set the text color inside an element 
 
 p{
-	color: red;	
-	}
+  color: red;
+  }
 
 similarly we can set color for different elements 
 
