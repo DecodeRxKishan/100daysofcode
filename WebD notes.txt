@@ -35,11 +35,21 @@ A Basic HTML Page:-
 
 <p> My paragraph </p> -->paragraph tag 
 
-</body> 
+</body> → • closing body tag heading tag
+
+</html>  
+
+A tag is like a container for either content or other HTML tags.
 
 
+Imp. Notes:
+-Head & body tags are children of html tag. 
+-HTML is the parent of head & body tags.
+-Most of the HTML elements have opening & closing tag with content in between opening & closing tags.
+-Some HTML tags have no content. These are called emoty elements 
+eg. <br>
 
-</html>→→ • closing body tag heading tag
+
 
 
 02/01/2023
