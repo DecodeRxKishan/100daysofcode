@@ -38,6 +38,15 @@ Imp. Notes:
 -Most of the HTML elements have opening & closing tag with content in between opening & closing tags.
 -Some HTML tags have no content. These are called emoty elements 
 eg. <br>
+-we can either use .htm or .html extension.
+-you can use "Inspect Element" or "view page source" option from chrome to look into a website's HTML code.
+
+	HTML element = start tag + content + end tag
+	
+Comments in HTML 
+-Comments in HTML are used to mark text which should not be parsed. They can help document the source code.
+
+<!-- HTML Comment -->
 
 
 02/01/2023
