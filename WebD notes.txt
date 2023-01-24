@@ -48,6 +48,9 @@ Comments in HTML
 
 <!-- HTML Comment -->
 
+case sensitivity
+-HTML is a case insensitive language <H1> and <h1> tags are the same.
+
 
 02/01/2023
 
