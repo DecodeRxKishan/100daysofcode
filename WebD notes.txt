@@ -51,6 +51,10 @@ Comments in HTML
 case sensitivity
 -HTML is a case insensitive language <H1> and <h1> tags are the same.
 
+We can add elements inside the body tag to define page layout.
+<body>   -opening tag
+content 
+</body>  -closing tag
 
 02/01/2023
 
