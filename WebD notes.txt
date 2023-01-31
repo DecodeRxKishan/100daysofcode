@@ -13,6 +13,9 @@ CSS is used to add styling to that barebone page Created using HTML.
 Java Script is used to program Logic for the page layout eg.
 
 What happens when a user hovers on a text, when
+
+
+
 to hide or show elements etc.
 
 We start building a website by creating a file named index.html index html is a special filename which is presented when the website root address is typed.
