@@ -33,6 +33,8 @@ A Basic HTML Page:-
 </body> → • closing body tag heading tag
 </html>  
 
+
+
 A tag is like a container for either content or other HTML tags.
 
 Imp. Notes:
