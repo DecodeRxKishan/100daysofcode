@@ -1,5 +1,6 @@
 Web Develpment Notes
 
+
 HTML Hyper Text Mark Up Language
 
 HTML is the language of the web.it is  to create websites"   We use HTML tags to define look & face of a website.
