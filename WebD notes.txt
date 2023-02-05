@@ -38,6 +38,8 @@ A Basic HTML Page:-
 
 A tag is like a container for either content or other HTML tags.
 
+
+
 Imp. Notes:
 -Head & body tags are children of html tag. 
 -HTML is the parent of head & body tags.
