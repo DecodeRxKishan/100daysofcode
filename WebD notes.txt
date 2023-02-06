@@ -59,8 +59,14 @@ content
 </body>  -closing tag
 
 HTML attributes:-
+used to add more information corresponding to an HTML tag. 
+ex.:- <a href="https://google.com/"> google </a>
 
+we can either use single or double quotes in attributes.
 
+The heading tag 
+Heading tag is used to mark headings in HTML. 
+From h1 to h6, we have tags for the most important to the least important heading
 02/01/2023
 
 - learnt CSS and its types
