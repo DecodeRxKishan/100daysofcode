@@ -1,6 +1,5 @@
 Web Develpment Notes
 
-
 HTML Hyper Text Mark Up Language
 
 HTML is the language of the web.it is  to create websites"   We use HTML tags to define look & face of a website.
@@ -14,8 +13,6 @@ CSS is used to add styling to that barebone page Created using HTML.
 Java Script is used to program Logic for the page layout eg.
 
 What happens when a user hovers on a text, when
-
-
 
 to hide or show elements etc.
 
@@ -35,10 +32,7 @@ A Basic HTML Page:-
 </html>  
 
 
-
 A tag is like a container for either content or other HTML tags.
-
-
 
 Imp. Notes:
 -Head & body tags are children of html tag. 
@@ -65,6 +59,7 @@ content
 </body>  -closing tag
 
 HTML attributes:-
+
 
 02/01/2023
 
