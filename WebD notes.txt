@@ -77,6 +77,9 @@ From h1 to h6, we have tags for the most important to the least important headin
 <h6> smallest heading </h6>
 
 
+
+
+
 02/01/2023
 
 - learnt CSS and its types
