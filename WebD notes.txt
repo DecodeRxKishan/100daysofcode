@@ -193,6 +193,7 @@ p{
   color: red;
   }
 
+
 similarly we can set color for different elements 
 
 Types of color values following are the most commonly used color values in css 
