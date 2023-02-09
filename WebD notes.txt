@@ -99,6 +99,7 @@ CSS selector
 -favicons.io(website icon)
 
 The hierarchy of CSS selector is 
+
  css ID>css Class>Inline css> css Tag
 
 
