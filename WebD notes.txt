@@ -39,6 +39,8 @@ A Basic HTML Page:-
 </html>  
 
 
+
+
 A tag is like a container for either content or other HTML tags.
 
 Imp. Notes:
